@@ -8,4 +8,4 @@ Eight months out of twelve, I study Computer Engineering at the University of Wa
 
 I'm always looking for my next opportunity, so feel free to reach out to me if you want to chat or have any questions!
 
-You can reach out to me [here](mailto:github@arora-aditya.com) or keep up with me on my [blog](https://blogs.arora-aditya.com/)
+You can reach out to me at github [at] aarora.xyz or keep up with me on my [blog](https://blogs.arora-aditya.com/)
